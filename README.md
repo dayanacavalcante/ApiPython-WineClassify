@@ -1,10 +1,10 @@
-# Python API to Classify Red and White Wines
+# Web API in Python with Flask to Classify Red and White Wines
 
 Let's talk about good things, let's talk about wine!
 
 **_Wine Classify_**
 
-Before creating the API, a wine classification model was created by training the ExtraTreesClassifier algorithm to be able to recognize the type of wine when receiving some characteristics of the wine to the classifier.
+Before creating the Web API, a wine classification model was created by training the ExtraTreesClassifier algorithm to be able to recognize whether the wine is red or white when it receives some features of the wine to the classifier. After the web API was created, the data was tested on Postman.
 
 **_Let's start the project!_**
 
@@ -94,9 +94,9 @@ With the Confusion Matrix, it can be seen that the classifier used was good, sin
 
 ![](/WineClassify/Chart/ConfusionMatrix.png)
 
-**_API_**
+**_Web API_**
 
-An API was created and tests were performed on Postman, as follows:
+Web API was created and tests were performed on Postman, as follows:
 
 ![](/Api/Postman.png)
 
