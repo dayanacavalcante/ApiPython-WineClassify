@@ -92,12 +92,12 @@ The Confusion Matrix can be used as a complement, where each row represents the 
 
 With the Confusion Matrix, it can be seen that the classifier used was good, since predictions were predominantly correct.
 
-![](.\WineClassify\Chart\ConfusionMatrix.png)
+![](/WineClassify/Chart/ConfusionMatrix.png)
 
 **_API_**
 
 An API was created and tests were performed on Postman, as follows:
 
-![](.\Api\Postman.png)
+![](/Api/Postman.png)
 
 The data was taken from Kaggle. Follow the link: https://www.kaggle.com/dell4010/wine-dataset							
