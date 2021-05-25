@@ -72,7 +72,7 @@ The data in the training base is used to train the model, while the data in the 
 
 With the data prepared I created the training model. 
 
-I used the Extra Tree Classifier for this problem. It is a algorithm with a fast learning process:
+I used the extra-trees classifier for this problem. It is a algorithm with a fast learning process:
 ```
 model = ExtraTreesClassifier()
 ```
